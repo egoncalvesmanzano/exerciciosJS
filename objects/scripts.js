@@ -7,6 +7,8 @@ const person = {
     isAdmin: true
 }
 
+//PS.poderia usar let ou var no exercício
+
 // Como fazer para pegar uma propriedade do objeto e imprimir na tela
 
 console.log(person.name)
